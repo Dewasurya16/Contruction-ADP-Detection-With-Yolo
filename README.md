@@ -19,9 +19,6 @@ Pelatihan model menggunakan YoloV8
     ```Terminal
     cd Contruction-ADP-Detection-With-Yolo
 
--
-  
-    ```
 
 - Install required dependencies
 
