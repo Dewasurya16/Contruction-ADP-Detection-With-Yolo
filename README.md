@@ -10,7 +10,7 @@ Saya memilih dataset public ini karena mudah diakses, datanya berkualitas dan te
 Pelatihan model menggunakan YoloV8
 
   
-### Capstone Project
+### Akurasi Model
 <img align ="Center" alt="coding" width="400"   src="https://github.com/Dewasurya16/wowok/blob/master/Screenshot_2.png">
 
 *Install despendecies 
