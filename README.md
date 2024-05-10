@@ -15,8 +15,8 @@ Hasil deteksi model menggunakan YOLOV8 Bisa dilihat di https://drive.google.com/
 ### Akurasi Model
 <img align ="Center" alt="coding" width="400"   src="https://github.com/Dewasurya16/wowok/blob/master/Screenshot_2.png">
 
-*Install despendecies 
-    ```bash
+- Install despendecies 
+    ```terminal
     git clone https://github.com/Dewasurya16/-Contruction-ADP-Detection-With-Yolo
     ```
 
@@ -39,3 +39,7 @@ Hasil deteksi model menggunakan YOLOV8 Bisa dilihat di https://drive.google.com/
     ```
 
 - Open <http://127.0.0.1:5000/> with your browser to run
+
+
+  ### Cara kerja
+Untuk menjalankan model bisa melakukan upload video yang akan di deteksi dengan menekan tombol upload di bagian Halaman Video. jika sudah terupload maka akan tampil video dengan deteksi secara realtime. Disarankan menggunakan video yang Landcsape.
