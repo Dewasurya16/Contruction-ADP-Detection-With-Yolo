@@ -1,14 +1,16 @@
 # Contruction-ADP-Detection-With-Yolo
 
 
-*dataset
+### dataset
 *dataset saya menggunakan daataset Publik : https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow
 
 Saya memilih dataset public ini karena mudah diakses, datanya berkualitas dan terstruktur, menghemat waktu dan biaya, serta mendukung kolaborasi dan reproduksibilitas penelitian. Selain itu, dataset ini memungkinkan pelatihan model yang lebih cepat, standarisasi performa, dan pembelajaran yang efektif dengan dukungan komunitas yang aktif.
 
-*MODEL
+### MODEL
 Pelatihan model menggunakan YoloV8
 
+### hasil Model
+Hasil deteksi model menggunakan YOLOV8 Bisa dilihat di https://drive.google.com/file/d/1xsY-tl4BbsPvGcToizMX1cEgmggwGlaV/view?usp=sharing
   
 ### Akurasi Model
 <img align ="Center" alt="coding" width="400"   src="https://github.com/Dewasurya16/wowok/blob/master/Screenshot_2.png">
