@@ -38,6 +38,7 @@ Hasil deteksi model menggunakan YOLOV8 Bisa dilihat di https://drive.google.com/
     ```Terminal
      python app.py
     ```
+    - Open <http://127.0.0.1:5000/> with your browser to run
 
   ### Cara kerja
 Untuk menjalankan model bisa melakukan upload video yang akan di deteksi dengan menekan tombol upload di bagian Halaman Video. jika sudah terupload maka akan tampil video dengan deteksi secara realtime. Disarankan menggunakan video yang Landcsape.
